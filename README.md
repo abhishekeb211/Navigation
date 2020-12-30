@@ -45,3 +45,8 @@ Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository
 For this project, we have built the Unity environment for you, and you must use the environment files that we have provided.
 
 If you are interested in learning to build your own Unity environments after completing the project, you are encouraged to follow the instructions here, which walk you through all of the details of building an environment from a Unity scene.
+
+
+Run Code:
+
+After setup instruction process and torch, matplotlib and collection library installtion run Report.ipynb Jupyter Notebook Just note check path locations
